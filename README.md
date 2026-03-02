@@ -1,15 +1,33 @@
-# Political awareness piscine (kinda)
+# political awareness piscine (kinda)
 
 Welcome, fellow student! Thank you for taking your time to read this!  
 
-## Description  
-It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have. (because code do a lot of work, including a very harmful work)  
-We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used to exploit or to harm people. (see nazi germany counting machines reference for example #TODO : add the source)  
+## the problem  
+It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have, because code can do a lot of work, including a very harmful work.  
 
+We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used by malicious companies to exploit or to harm people. (see nazi germany counting machines reference for example #TODO : add the source)  
+
+This can lead to a lot of graduated students having no familiar way to navigate the job market in a way, that refelcts their values the most.  
+Which means, __`some of us can end up working for a company, that does something awful`__.  
+
+## what we can do
+This repo is one of the ways, how we can try to learn things and test ourselves.  
+
+### How? 
+Your uni or 42 campus, like any organization, is not perfect.
+It collaborates with a lot of companies, invites people to panels.  
+It has its own history. And it makes certain decisions over others.
+
+To start, you can start paying attention to things like this. 
+Checking if any of companies were found in the middle of __`allegations`__ or __`contraversies`__, could be a good starting point, tho obviously, the terms like this can be heavily misused, so make sure to keep in check with your sense of ethics and conscience and how much of what you find makes sense to you.  
+If you are not sure what to make of what you find, it's okay and its normal.  
+Building political awareness takes time.  
+Ask your fellow students (the ones you trust) for help. 
+Even if they can't help you with the answer, they still can support you by just being there. Most of the times it helps to notice your blind spots.  
 
 <details><summary>
 
-## List of companies engaging in human rights violations
+## list of companies engaging in human rights violations
 </summary>
 
 ## Capgemini
