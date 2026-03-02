@@ -1,29 +1,53 @@
 # political awareness piscine (kinda)
 
 Welcome, fellow student! Thank you for taking your time to read this!  
+This repo is made primarily for and by CODAM Coding College students.  
+If you wish to adapt it to your uni, feel free to fork it.  
 
 ## the problem  
 It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have, because code can do a lot of work, including a very harmful work.  
 
 We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used by malicious companies to exploit or to harm people. (see nazi germany counting machines reference for example #TODO : add the source)  
 
-This can lead to a lot of graduated students having no familiar way to navigate the job market in a way, that refelcts their values the most.  
+This can lead to a lot of graduated students having no clue how to navigate the job market in a way, that refelcts their values the most.  
 Which means, __`some of us can end up working for a company, that does something awful`__.  
 
 ## what we can do
 This repo is one of the ways, how we can try to learn things and test ourselves.  
 
 ### How? 
-Your uni or 42 campus, like any organization, is not perfect.
+Codam, like any organization, is not perfect.
 It collaborates with a lot of companies, invites people to panels.  
 It has its own history. And it makes certain decisions over others.
 
-To start, you can start paying attention to things like this. 
-Checking if any of companies were found in the middle of __`allegations`__ or __`contraversies`__, could be a good starting point, tho obviously, the terms like this can be heavily misused, so make sure to keep in check with your sense of ethics and conscience and how much of what you find makes sense to you.  
+Checking if any of companies were found in the middle of __`allegations`__ or __`contraversies`__ could be a good starting point, tho obviously, the terms like this can be heavily misused, so make sure to keep in check with your sense of ethics and conscience and how much of what you find makes sense to you.  
 If you are not sure what to make of what you find, it's okay and its normal.  
 Building political awareness takes time.  
-Ask your fellow students (the ones you trust) for help. 
+Educate yourself on topics you don't understand if you can.  
+Try to prioritize voices of victims directly affected when learning about harmful incidents.  
+Ask your fellow students (the ones you trust) for help.
 Even if they can't help you with the answer, they still can support you by just being there. Most of the times it helps to notice your blind spots.  
+
+## Challenge
+For Codam, there is already two companies found so far doing evil shit: one is benefiting from war, and another is aiding deportations (and in many cases killings) of people.
+These companies were invited to collaborate or mentioned as an opportunity by the Codam's stuff in some way or another.
+Which made some students at Codam concerned, because it normalizes such companies.
+And also tricks students, who otherwise would never want to work with such companies because of their values.  
+
+### Can you find them? 
+Feel free to either look into it yourself, or create a study group with people you trust.  
+Because of the "No Politics" rule at Codam, we unfortunately cannot advice you to contact bocal about it and rather want you to keep this repo known only between students.  
+This way, students can learn about those companies, without bocal's intervention, and judging by the rules bocal uses, it is only fair to assume they could obstruct this initiative.  
+
+### Found something?
+
+Once you are done with your research, feel free to come back here and click on the drop down list below to check the answer to the challange.  
+
+If you notice, that you found something new, that is not on the list, or you have additions to the list -> please contribute, so that we can make the list bigger.  
+
+Contribution can be done either by opening Pull request, or by emailing your README.md to qt.mushroom@proton.me if you'd rather stay anonymous.  
+
+### Thank you for reading and good luck! ;)  
 
 <details><summary>
 
