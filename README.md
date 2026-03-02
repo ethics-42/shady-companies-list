@@ -3,8 +3,8 @@
 Welcome, fellow student! Thank you for taking your time to read this!  
 
 ## Description  
-It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have.  
-We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used to exploit or to harm people.
+It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have. (because code do a lot of work, including a very harmful work)  
+We are peer-to-peer learning from each other everyday about programming, but not about history or current time examples of our competence being used to exploit or to harm people. (see nazi germany counting machines reference for example #TODO : add the source)  
 
 
 <details><summary>
