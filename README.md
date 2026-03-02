@@ -7,7 +7,7 @@ If you wish to adapt it to your uni, feel free to fork it.
 ## the problem  
 It seems that nowadays the skills of learning and applying politics/ethics in your field of work (in our case, programming) is not really being encouraged, despite it being very important to have, because code can do a lot of work, including a very harmful work.  
 
-We peer-to-peer learn from each other everyday about programming, but not about history or current time examples of our competence being used by malicious companies to exploit or to harm people. (see nazi germany counting machines reference for example #TODO : add the source)  
+We peer-to-peer learn from each other everyday about programming, but not about history or current time examples of our competence being used by malicious companies to exploit or to harm people. (see nazi germany counting machines reference for example, or PALANTIR being tested on people #TODO : add the source)  
 
 This can lead to a lot of graduated students having no clue how to navigate the job market in a way, that refelcts their values the most.  
 Which means, __`some of us can end up working for a company, that does something awful`__.  
